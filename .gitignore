@@ -1,0 +1,12 @@
+#folders
+dist/
+.vs/
+venv/
+obj/
+images/
+data/
+
+#files
+*.pyproj
+*.pyproj.user
+*.sln
